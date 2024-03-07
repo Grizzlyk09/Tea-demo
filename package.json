@@ -1,5 +1,5 @@
 {
-  "name": "tea-demo",
+  "name": "tea-demonok",
   "version": "1.0.0",
   "description": "Basic demonstration app",
   "main": "index.js",
@@ -11,12 +11,13 @@
     "url": "https://github.com/Grizzlyk09/Tea-demo.git"
   },
   "dependencies": {
-    "minti_fulkerson": "0.1.4"
+    "tea-demokon": "1.0.0"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Grizzlyk09/Tea-demo/issues"
   },
-  "homepage": "https://github.com/Grizzlyk09/Tea-demo#readme"
+  "homepage": "https://github.com/Grizzlyk09/Tea-demo#readme",
+  "devDependencies": {}
 }
